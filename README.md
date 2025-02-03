@@ -1,6 +1,7 @@
 # aula_fastapi
 
-## Orientações para executar a API
+## Orientações para executar a API 
+## Teste de Atualização no GitHub Desktop
 
 - Crie um ambiente virtual: `python -m venv venv`
 - Ative o ambiente virtual (no Windows): `venv\Scripts\activate`
